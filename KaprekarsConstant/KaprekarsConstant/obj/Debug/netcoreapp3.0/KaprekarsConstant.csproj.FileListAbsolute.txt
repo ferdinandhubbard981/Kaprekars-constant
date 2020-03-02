@@ -1,0 +1,11 @@
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\KaprekarsConstant\KaprekarsConstant\bin\Debug\netcoreapp3.0\KaprekarsConstant.exe
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\KaprekarsConstant\KaprekarsConstant\bin\Debug\netcoreapp3.0\KaprekarsConstant.deps.json
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\KaprekarsConstant\KaprekarsConstant\bin\Debug\netcoreapp3.0\KaprekarsConstant.runtimeconfig.json
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\KaprekarsConstant\KaprekarsConstant\bin\Debug\netcoreapp3.0\KaprekarsConstant.runtimeconfig.dev.json
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\KaprekarsConstant\KaprekarsConstant\bin\Debug\netcoreapp3.0\KaprekarsConstant.dll
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\KaprekarsConstant\KaprekarsConstant\bin\Debug\netcoreapp3.0\KaprekarsConstant.pdb
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\KaprekarsConstant\KaprekarsConstant\obj\Debug\netcoreapp3.0\KaprekarsConstant.csprojAssemblyReference.cache
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\KaprekarsConstant\KaprekarsConstant\obj\Debug\netcoreapp3.0\KaprekarsConstant.AssemblyInfoInputs.cache
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\KaprekarsConstant\KaprekarsConstant\obj\Debug\netcoreapp3.0\KaprekarsConstant.AssemblyInfo.cs
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\KaprekarsConstant\KaprekarsConstant\obj\Debug\netcoreapp3.0\KaprekarsConstant.dll
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\KaprekarsConstant\KaprekarsConstant\obj\Debug\netcoreapp3.0\KaprekarsConstant.pdb
